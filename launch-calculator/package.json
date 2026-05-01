@@ -4,28 +4,26 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "vite build"
   },
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "lucide-react": "latest",
-    "framer-motion": "latest",
-    "clsx": "latest",
-    "tailwind-merge": "latest",
-    "zod": "latest",
-    "react-hook-form": "latest",
-    "wouter": "latest",
-    "@tanstack/react-query": "latest"
+    "react": "*",
+    "react-dom": "*",
+    "lucide-react": "*",
+    "framer-motion": "*",
+    "clsx": "*",
+    "tailwind-merge": "*",
+    "zod": "*",
+    "react-hook-form": "*",
+    "wouter": "*",
+    "@tanstack/react-query": "*"
   },
   "devDependencies": {
-    "vite": "latest",
-    "@vitejs/plugin-react": "latest",
-    "typescript": "latest",
-    "tailwindcss": "latest",
-    "autoprefixer": "latest",
-    "postcss": "latest"
+    "vite": "*",
+    "@vitejs/plugin-react": "*",
+    "typescript": "*",
+    "tailwindcss": "*",
+    "autoprefixer": "*",
+    "postcss": "*"
   }
 }
